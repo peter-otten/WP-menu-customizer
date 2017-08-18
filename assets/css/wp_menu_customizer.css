@@ -1,0 +1,24 @@
+#wp_menu_customizer_menu_list li {
+    background: white;
+    padding: 20px;
+    width: 300px;
+    height: 20px;
+    position: relative;
+    display: block;
+}
+
+#wp_menu_customizer_menu_list li h2 {
+    margin: 0;
+    padding: 0;
+    float: left;
+    position: relative;
+    display: block;
+}
+
+#wp_menu_customizer_menu_list li .dashicons {
+    margin: 0;
+    padding: 0;
+    float: right;
+    position: relative;
+    display: block;
+}
